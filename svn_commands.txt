@@ -1,0 +1,2 @@
+# add a external directory to svn
+svn propset svn:externals . -F svn_ext_val.txt 
