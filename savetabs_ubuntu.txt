@@ -1,0 +1,5 @@
+Save Tabs in ubuntu
+
+gnome-terminal --save-config=cart
+gnome-terminal --load-config=cart
+
